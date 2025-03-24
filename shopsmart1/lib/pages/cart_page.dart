@@ -44,9 +44,9 @@ class CartPageState extends State<CartPage> {
     }
 
     double totalAmount = totalPriceNotifier.value;
-    String upiId = "sumitgupta9337@okaxis"; // Replace with your actual UPI ID
+    String upiId = ""; // Replace with your actual UPI ID
 
-    String upiUrl = "upi://pay?pa=$upiId&pn=SmartShop&am=$totalAmount&cu=INR&tn=SmartShop Payment";
+    String upiUrl = "";
 
     Uri uri = Uri.parse(upiUrl);
     if (await canLaunchUrl(uri)) {
