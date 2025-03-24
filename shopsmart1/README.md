@@ -1,16 +1,60 @@
-# shopsmart1
+# ShopSmart 🛒
 
-A new Flutter project.
+ShopSmart is a smart shopping cart application built using Flutter. It allows users to scan product barcodes or QR codes, add items to their cart, and streamline the checkout process.
 
-## Getting Started
+## Features 🚀
+- 📷 **QR Code & Barcode Scanner**: Scan product barcodes and QR codes to add items to the cart.
+- 🛍️ **Seamless Shopping Experience**: Keeps track of scanned items in a virtual cart.
+- 🔄 **Persistent Cart Data**: Cart items remain even when switching pages.
+- ☁ **Firebase Authentication**: Supports Google Sign-In.
+- 🎨 **Responsive UI**: Uses `flutter_screenutil` for dynamic UI scaling.
 
-This project is a starting point for a Flutter application.
+## Tech Stack 🏗️
+- **Frontend**: Flutter (Dart)
+- **Backend**: Firebase
+- **Version Control**: Git & GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## Installation & Setup 🛠️
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/NotSwanand/ShopSmart.git
+   cd ShopSmart
+   ```
+2. **Install dependencies:**
+   ```sh
+   flutter pub get
+   ```
+3. **Run the app:**
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How It Works? 🤖
+1. Open the app and sign in using Google authentication.
+2. Scan a product's QR code or barcode.
+3. The product details (name, image, price) are added to the cart.
+4. View the cart and proceed to checkout.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Folder Structure 📁
+```
+ShopSmart/
+│-- lib/
+│   │-- main.dart         # Entry point of the app
+│   │-- screens/          # UI screens
+│   │-- models/           # Data models
+│   │-- services/         # Backend & Firebase functions
+│   └-- utils/            # Helper functions
+│-- assets/               # Images & icons
+│-- pubspec.yaml          # Dependencies
+│-- README.md             # Project documentation
+```
+
+## Contributions 🤝
+Feel free to contribute by submitting a pull request or reporting issues!
+
+## License 📜
+This project is licensed under the MIT License.
+
+---
+
+Happy Shopping! 🛍️
