@@ -1,0 +1,8 @@
+flutter_native_splash:
+  color: "#FFFFFF"  # Background color
+  image: assets/final.png  # Ensure this is a square image (512x512 or 1024x1024 px)
+  android: true
+  ios: true
+  android_12:
+    image: assets/final.png
+    icon_background_color: "#FFFFFF"  # Optional, can be removed

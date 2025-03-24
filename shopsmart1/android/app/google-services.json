@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "687233417070",
+    "project_id": "shopsmart-c9232",
+    "storage_bucket": "shopsmart-c9232.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687233417070:android:230a9b6e23a77d123f4b7f",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687233417070-03askm1bao3ht65o5hg6cn1l62rp8cjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop",
+            "certificate_hash": "c61c8b5d59cebc7a29d13b07672fd3e1c30e7493"
+          }
+        },
+        {
+          "client_id": "687233417070-bmfsce9ef0dovoensm6tm96n3q4a53sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop",
+            "certificate_hash": "33caa5f26a9c2a9c78c332eefe93cfafa1c31526"
+          }
+        },
+        {
+          "client_id": "687233417070-sdnohvhtp3pffmcu5lp4qt6oc6dreg1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop",
+            "certificate_hash": "43ebbb1bb0d91686a4f410970b061a82129bbd6e"
+          }
+        },
+        {
+          "client_id": "687233417070-mhkfbhk1lou6tv14t182cpcja72sf63p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjc88w3E01RpC4TDzz15hIuzVNpkq8dBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687233417070-mhkfbhk1lou6tv14t182cpcja72sf63p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687233417070-4up4d4ptboogqfcvfopo2ti9443qiph2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687233417070:android:1433245d5279fc313f4b7f",
+        "android_client_info": {
+          "package_name": "com.example.shopsmart1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687233417070-48b0u5q8s5tr6nbv999j33ao55m40o0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsmart1",
+            "certificate_hash": "43ebbb1bb0d91686a4f410970b061a82129bbd6e"
+          }
+        },
+        {
+          "client_id": "687233417070-k12vvk7r7ecgdr7tnfs9b1rpr6j8pq3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsmart1",
+            "certificate_hash": "c61c8b5d59cebc7a29d13b07672fd3e1c30e7493"
+          }
+        },
+        {
+          "client_id": "687233417070-l6ugn6jho1v7u3qm99oovo16anqa8kf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsmart1",
+            "certificate_hash": "33caa5f26a9c2a9c78c332eefe93cfafa1c31526"
+          }
+        },
+        {
+          "client_id": "687233417070-mhkfbhk1lou6tv14t182cpcja72sf63p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjc88w3E01RpC4TDzz15hIuzVNpkq8dBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687233417070-mhkfbhk1lou6tv14t182cpcja72sf63p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687233417070-4up4d4ptboogqfcvfopo2ti9443qiph2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
