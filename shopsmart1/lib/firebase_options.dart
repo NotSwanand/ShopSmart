@@ -40,49 +40,35 @@ class DefaultFirebaseOptions {
     }
   }
 
+  import 'package:firebase_core/firebase_core.dart';
+
+class DefaultFirebaseOptions {
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBamGUgo8VwqB8q9h-inev0WKFkQdL2V2s',
-    appId: '1:687233417070:web:991730a1464376a93f4b7f',
-    messagingSenderId: '687233417070',
-    projectId: 'shopsmart-c9232',
-    authDomain: 'shopsmart-c9232.firebaseapp.com',
-    storageBucket: 'shopsmart-c9232.firebasestorage.app',
-    measurementId: 'G-0WG9J2J6SZ',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: 'YOUR_AUTH_DOMAIN',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    measurementId: 'YOUR_MEASUREMENT_ID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBjc88w3E01RpC4TDzz15hIuzVNpkq8dBY',
-    appId: '1:687233417070:android:1433245d5279fc313f4b7f',
-    messagingSenderId: '687233417070',
-    projectId: 'shopsmart-c9232',
-    storageBucket: 'shopsmart-c9232.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBA1MbVYEanNhNznBvEWqdeu4bs_lzvNNA',
-    appId: '1:687233417070:ios:52a9380fdcc929123f4b7f',
-    messagingSenderId: '687233417070',
-    projectId: 'shopsmart-c9232',
-    storageBucket: 'shopsmart-c9232.firebasestorage.app',
-    iosBundleId: 'com.example.shopsmart1',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID',
   );
+}
 
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBA1MbVYEanNhNznBvEWqdeu4bs_lzvNNA',
-    appId: '1:687233417070:ios:52a9380fdcc929123f4b7f',
-    messagingSenderId: '687233417070',
-    projectId: 'shopsmart-c9232',
-    storageBucket: 'shopsmart-c9232.firebasestorage.app',
-    iosBundleId: 'com.example.shopsmart1',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBamGUgo8VwqB8q9h-inev0WKFkQdL2V2s',
-    appId: '1:687233417070:web:987705f1ad5c653c3f4b7f',
-    messagingSenderId: '687233417070',
-    projectId: 'shopsmart-c9232',
-    authDomain: 'shopsmart-c9232.firebaseapp.com',
-    storageBucket: 'shopsmart-c9232.firebasestorage.app',
-    measurementId: 'G-M1HSFMKG6T',
-  );
 }
