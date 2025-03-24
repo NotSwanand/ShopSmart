@@ -12,7 +12,6 @@ ShopSmart is a smart shopping cart application built using Flutter. It allows us
 ## Tech Stack 🏗️
 - **Frontend**: Flutter (Dart)
 - **Backend**: Firebase
-- **Version Control**: Git & GitHub
 
 ## Installation & Setup 🛠️
 1. **Clone the repository:**
