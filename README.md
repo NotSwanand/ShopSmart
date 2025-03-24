@@ -48,6 +48,34 @@ ShopSmart/
 │-- README.md             # Project documentation
 ```
 
+## 📸 Screenshots  
+
+### 🚀 Start Pages  
+| Start Page 1 | Start Page 2 | Start Page 3 |
+|--------------|--------------|--------------|
+| ![Start Page 1](screenshots/start_page_1.jpg) | ![Start Page 2](screenshots/start_page_2.jpg) | ![Start Page 3](screenshots/start_page_3.jpg) |
+
+### 🏠 Home Page  
+![Home Page](screenshots/home_page.jpg)  
+
+### 🛍️ Empty Cart Page  
+![Empty Cart](screenshots/empty_cart_page.jpg) 
+
+### 🔍 Scanning Page  
+![Scanning Page](screenshots/scanning_page.jpg)  
+
+### 🛒 Added Cart Page  
+![Added Cart](screenshots/added_cart_page.jpg)  
+
+### 📦 Past Orders Page  
+![Past Orders](screenshots/past_order_page.jpg)  
+
+### 👤 Profile Page  
+![Profile Page](screenshots/profile_page.jpg)  
+
+### 📍 Store Map  
+![Store Map](screenshots/store_map.jpg)  
+
 ## Contributions 🤝
 Feel free to contribute by submitting a pull request or reporting issues!
 
