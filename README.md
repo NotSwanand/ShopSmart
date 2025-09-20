@@ -55,26 +55,20 @@ ShopSmart/
 |--------------|--------------|--------------|
 | ![Start Page 1](screenshots/start_page_1.jpg) | ![Start Page 2](screenshots/start_page_2.jpg) | ![Start Page 3](screenshots/start_page_3.jpg) |
 
-### 🏠 Home Page  
-![Home Page](screenshots/home_page.jpg)  
+### 🏠 App Screens  
 
-### 🛍️ Empty Cart Page  
-![Empty Cart](screenshots/empty_cart_page.jpg) 
+| Home Page | Empty Cart | Scanning Page |
+|-----------|------------|---------------|
+| ![Home Page](screenshots/home_page.jpg) | ![Empty Cart](screenshots/empty_cart_page.jpg) | ![Scanning Page](screenshots/scanning_page.jpg) |
 
-### 🔍 Scanning Page  
-![Scanning Page](screenshots/scanning_page.jpg)  
+| Added Cart | Past Orders | Profile Page |
+|------------|-------------|--------------|
+| ![Added Cart](screenshots/added_cart_page.jpg) | ![Past Orders](screenshots/past_order_page.jpg) | ![Profile Page](screenshots/profile_page.jpg) |
 
-### 🛒 Added Cart Page  
-![Added Cart](screenshots/added_cart_page.jpg)  
+| Store Map |              |              |
+|-----------|--------------|--------------|
+| ![Store Map](screenshots/store_map.jpg) | | |
 
-### 📦 Past Orders Page  
-![Past Orders](screenshots/past_order_page.jpg)  
-
-### 👤 Profile Page  
-![Profile Page](screenshots/profile_page.jpg)  
-
-### 📍 Store Map  
-![Store Map](screenshots/store_map.jpg)  
 
 ## Contributions 🤝
 Feel free to contribute by submitting a pull request or reporting issues!
